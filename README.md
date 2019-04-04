@@ -2,4 +2,4 @@
 <h1 align="middle"><a href="https://stackexchange.com/users/11078123/indrajith-ekanayake"><img src="https://stackexchange.com/users/flair/11078123.png" width="208" height="58" alt="profile for Indrajith Ekanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Indrajith Ekanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a></h1>
 
 <img align="center" src="https://github.com/Semicolon10/folio/blob/master/images/logo.png" alt="" width="100"   >folio</h1>
-<h3 align="middle">This is a future of nanny. Storyteller for babies.</h3>
+
