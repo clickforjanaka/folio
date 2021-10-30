@@ -14,7 +14,7 @@ With Folio, a child can learn on his own without any support of others. He can e
 <h3 ><img align="center" src="https://github.com/Semicolon10/folio/blob/master/images/firebase.png" alt="" width="100"   >I.	Java (MVC Architecture)</h3>
 
 
-(Additionally, we used Android Studio IDE to develop the native application.)
+(Additionally, we used Android Studio IDE to develop the native application.)  
 
 <h1 align="middle">Analysis of the system</h1>
 <h2 align="middle">Functional Specification</h2>
