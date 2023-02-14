@@ -1,8 +1,3 @@
-# <a href="https://www.linkedin.com/in/indrajith-ekanayake/">Contat me:</a>
-
-<HacktoberfestBadge year={20211} />
-<h1 align="middle"><a href="https://stackexchange.com/users/11078123/indrajith-ekanayake"><img src="https://stackexchange.com/users/flair/11078123.png" width="208" height="58" alt="profile for Indrajith Ekanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Indrajith Ekanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a></h1>
-
 <h1 align="middle"><img align="center" src="https://github.com/Semicolon10/folio/blob/master/images/logo.png" alt="" width="100"   >folio</h1>
 <h3 align="middle">This is future nanny, Storyteller for babies</h3>
 Physiologists say, “You can always get a view from a hill and being 4 is like the first developmental hill from which your child can get a view of a bigger world.”  Age 3-5 is the period which the brain develops the most. As a parent they have huge responsibility for interacting with their child and do the things what they have to, but today there is a problem with that. Parents are busy with their schedules and they have a little time to interact with their kids. That’s why day-cares and nannies are common in Sri Lanka. This is not a good sign. Folio will overcome the problem of having less interaction and provide the hands-on strategies that the kids need. Its not distancing the relationship between parents and children nut simplifies the relationship and makes it easy for parents.        
@@ -84,13 +79,3 @@ Etc.
 <h2 align="middle">Test run(01)</h2>
 <h1 align="middle"><img align="center" src="https://github.com/Semicolon10/folio/blob/master/images/testrun.JPG" alt=""  ></h1>
 <h1 align="middle"><img align="center" src="https://github.com/Semicolon10/folio/blob/master/images/testrun2.jpg" alt=""  ></h1>
-
-<h1 align="middle">Future Implementation</h1>
-
-Additional interactions with the kids such as, touching the picture which then will play short enjoyable animations will be added.
-
-Sketch recognition will be implemented with AR(Augmented Reality) to demonstrate the colouring process with animations.
-
-Voice recognition which will trigger various audio responses related to the cartoon character will be implemented.
-
-# Give us a star if this usefull :star:  :star:  :star:  
